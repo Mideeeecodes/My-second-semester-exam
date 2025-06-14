@@ -55,14 +55,14 @@ Then a certificate will be deployed to you successfully.
 You will get a message saying you have enabled HTTPS on your HTTP 
 
 ##IMAGES OF THE RENDERED PAGE WITH THE DOMAIN NAME
-![image1](./image1.png)
-![Image2](./image2.png)
-![Image3](./image3.png)
-![Image4](./image4.png)
+![image1](/images/image1.png)
+![Image2](/images/image2.png)
+![Image3](/images/image3.png)
+![Image4](/images/image4.png)
 
 
 ##IMAGE WITH PULIC IP ADDRESS WHERE THE PAGE IS HOSTED
-[Imag5](./Screenshot%202025-06-14%20142549.png)
+[Imag5](/images/Screenshot%202025-06-14%20142549.png)
 
 
 
